@@ -138,7 +138,7 @@ This repository contains **three independent modules**, each created as part of 
 ## 👩‍💻 Author
 
 **Aashritha Konjarla**  
-3rd Year B.Tech Student
+
 
 ---
 
